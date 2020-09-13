@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="052069d4-ebda-45fe-af99-6adb4d51ff43" name="Default Changelist" comment="adding files">
+      <change afterPath="$PROJECT_DIR$/concatenation.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1h91rcTR9dYr2M0fgbrtHDq9gXg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../php/php.ini" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="052069d4-ebda-45fe-af99-6adb4d51ff43" name="Default Changelist" comment="" />
+      <created>1599408694377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599408694377</updated>
+      <workItem from="1599408695546" duration="1000000" />
+      <workItem from="1599409931181" duration="3098000" />
+      <workItem from="1599538308518" duration="904000" />
+      <workItem from="1599671143407" duration="697000" />
+      <workItem from="1599996741615" duration="1435000" />
+      <workItem from="1600012345625" duration="1172000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding files">
+      <created>1599409704969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599409704969</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding files">
+      <created>1599410068958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599410068958</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding files">
+      <created>1599410097010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599410097010</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding files">
+      <created>1599410710928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599410710928</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding files">
+      <created>1599419542474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599419542474</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding files">
+      <created>1599419594603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599419594603</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adding files">
+      <created>1599538581982</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599538581982</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adding files">
+      <created>1599671220982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599671220982</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adding files">
+      <created>1599996787888</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599996787888</updated>
+    </task>
+    <task id="LOCAL-00010" summary="adding files">
+      <created>1600012952281</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600012952281</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="87" key="#CLI_Interpreters" timestamp="1599409981522">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="87" key="#CLI_Interpreters/0.0.1536.864@0.0.1536.864" timestamp="1599409981522" />
+    <state x="475" y="75" key="#PHP" timestamp="1599409984190">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="475" y="75" key="#PHP/0.0.1536.864@0.0.1536.864" timestamp="1599409984190" />
+    <state x="550" y="187" key="FileChooserDialogImpl" timestamp="1599409978903">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="550" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599409978903" />
+    <state x="640" y="330" key="Github.ShareDialog" timestamp="1599408759938">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="640" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1599408759938" />
+    <state x="648" y="137" key="Github.UntrackedFilesDialog" timestamp="1599408767524">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="648" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1599408767524" />
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1600013022825">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1600013022825" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1599411009124">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1599411009124" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600012956304">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600012956304" />
+  </component>
+</project>
