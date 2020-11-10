@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052069d4-ebda-45fe-af99-6adb4d51ff43" name="Default Changelist" comment="adding files">
-      <change afterPath="$PROJECT_DIR$/ifelseif.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_Operators.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/php/php.exe" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,6 +68,7 @@
       <workItem from="1600012345625" duration="4795000" />
       <workItem from="1604844133049" duration="3270000" />
       <workItem from="1604930501955" duration="1504000" />
+      <workItem from="1605011717169" duration="845000" />
     </task>
     <task id="LOCAL-00001" summary="adding files">
       <created>1599409704969</created>
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600017072410</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="adding files">
+      <created>1605011840015</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605011840015</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,17 +219,17 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="648" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1599408767524" />
-    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1604849934523">
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1605014355796">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1604849934523" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1604848275698">
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1605014355796" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1605011908949">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604848275698" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1600017076453">
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605011908949" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605011911818">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1600017076453" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605011911818" />
   </component>
 </project>
