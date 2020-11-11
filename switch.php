@@ -12,7 +12,7 @@ switch ($number){
         echo 'Three';
         break;
     default:
-        echo "Bazinga";
+        echo "Bazinga , Number not Found";
         break;
 
 }
