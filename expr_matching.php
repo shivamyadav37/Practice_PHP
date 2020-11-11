@@ -5,5 +5,5 @@ if (preg_match('/is/',$string)){
     echo 'Found';
 }
 else{
-    'Not Found';
+    echo 'Not Found';
 }
