@@ -1,8 +1,8 @@
 <?php
 
-echo 'Hello';
+echo 'Hello<br>';
 
-die("PAGE HAs ENDED");
+die("PAGE HAS ENDED");
 //exit();
 
 echo 'World ';
