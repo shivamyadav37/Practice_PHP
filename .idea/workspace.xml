@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052069d4-ebda-45fe-af99-6adb4d51ff43" name="Default Changelist" comment="adding files">
+      <change afterPath="$PROJECT_DIR$/die_and_exit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +74,7 @@
       <workItem from="1605011717169" duration="5053000" />
       <workItem from="1605024072748" duration="1772000" />
       <workItem from="1605090635903" duration="249000" />
+      <workItem from="1605092006177" duration="1265000" />
     </task>
     <task id="LOCAL-00001" summary="adding files">
       <created>1599409704969</created>
@@ -221,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605025239197</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="adding files">
+      <created>1605092089423</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605092089423</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,10 +274,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="648" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1599408767524" />
-    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1605024908115">
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1605092203009">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1605024908115" />
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1605092203009" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1605090690999">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
