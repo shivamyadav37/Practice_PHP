@@ -2,7 +2,7 @@
 
 echo 'Hello';
 
-die();
-exit();
+die("PAGE HAs ENDED");
+//exit();
 
 echo 'World ';
