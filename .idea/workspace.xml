@@ -23,7 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052069d4-ebda-45fe-af99-6adb4d51ff43" name="Default Changelist" comment="adding files">
-      <change afterPath="$PROJECT_DIR$/basic_function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_with_args.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <workItem from="1605024072748" duration="1772000" />
       <workItem from="1605090635903" duration="249000" />
       <workItem from="1605092006177" duration="3414000" />
-      <workItem from="1605146888993" duration="515000" />
+      <workItem from="1605146888993" duration="1774000" />
     </task>
     <task id="LOCAL-00001" summary="adding files">
       <created>1599409704969</created>
@@ -279,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605146910208</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="adding files">
+      <created>1605147414871</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1605147414871</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,10 +331,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="648" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1599408767524" />
-    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1605147216577">
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1605148482678">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1605147216577" />
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1605148482678" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1605090690999">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
