@@ -23,9 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052069d4-ebda-45fe-af99-6adb4d51ff43" name="Default Changelist" comment="adding files">
-      <change afterPath="$PROJECT_DIR$/function_with_return.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_function_1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_function_1.php" beforeDir="false" afterPath="$PROJECT_DIR$/string_function_1.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <workItem from="1605092006177" duration="3414000" />
       <workItem from="1605146888993" duration="3092000" />
       <workItem from="1605178313078" duration="4469000" />
-      <workItem from="1605265047851" duration="3539000" />
+      <workItem from="1605265047851" duration="3845000" />
     </task>
     <task id="LOCAL-00001" summary="adding files">
       <created>1599409704969</created>
@@ -304,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605178808760</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="adding files">
+      <created>1605274118595</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1605274118595</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
