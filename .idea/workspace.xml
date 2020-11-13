@@ -23,7 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052069d4-ebda-45fe-af99-6adb4d51ff43" name="Default Changelist" comment="adding files">
-      <change afterPath="$PROJECT_DIR$/function_with_args_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_with_return.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_function_1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/php/php.exe" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +77,8 @@
       <workItem from="1605090635903" duration="249000" />
       <workItem from="1605092006177" duration="3414000" />
       <workItem from="1605146888993" duration="3092000" />
-      <workItem from="1605178313078" duration="307000" />
+      <workItem from="1605178313078" duration="4469000" />
+      <workItem from="1605265047851" duration="3539000" />
     </task>
     <task id="LOCAL-00001" summary="adding files">
       <created>1599409704969</created>
@@ -295,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605149296584</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="adding files">
+      <created>1605178808760</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1605178808760</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,17 +348,17 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="648" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1599408767524" />
-    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1605178378794">
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1605267961483">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1605178378794" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1605090690999">
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1605267961483" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1605270806332">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605090690999" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605146914050">
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605270806332" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605270809521">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605146914050" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605270809521" />
   </component>
 </project>
