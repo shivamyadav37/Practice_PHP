@@ -1,3 +1,5 @@
 <?php
 
-echo time();
+echo time().'<br>';
+
+echo date('H:i:s',time());
